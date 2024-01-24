@@ -18,14 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-
+![image](https://github.com/DayanaVarg/QR-CODE-COMPONENT/assets/128272265/5f3da573-c1a2-4b8d-a9b1-eb46378087e0)
+![image](https://github.com/DayanaVarg/QR-CODE-COMPONENT/assets/128272265/c0c8908e-88a9-4e26-98f3-a8d2d522f44c)
 
 ### Links
-
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (http://127.0.0.1:5500/index.html)
 
 ## My process
 
